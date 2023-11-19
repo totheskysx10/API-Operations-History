@@ -6,16 +6,22 @@ public class Operation implements ConsolePrintable {
     private int sum;
     private String currency;
     private String merchant;
+    private int clientId;
 
-    public Operation(int id, int sum, String currency, String merchant) {
+    public Operation(int id, int sum, String currency, String merchant, int clientId) {
         this.id = id;
         this.sum = sum;
         this.currency = currency;
         this.merchant = merchant;
+        this.clientId = clientId;
     }
 
     public int getId() {
         return id;
+    }
+
+    public int getClientId() {
+        return clientId;
     }
 
     public int getSum() {
@@ -43,7 +49,7 @@ public class Operation implements ConsolePrintable {
     @Override
     public String toString()
     {
-        return "{id=" + this.id + ", sum=" + this.sum + ", currency=" + this.currency + ", merchant=" + this.merchant + "}";
+        return "{id=" + this.id + ", sum=" + this.sum + ", currency=" + this.currency + ", merchant=" + this.merchant + ", client=" + this.clientId + "}";
     }
 
     public void printToConsole() {

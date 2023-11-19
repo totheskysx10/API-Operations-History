@@ -4,8 +4,8 @@ public class CashbackOperation extends Operation implements ConsolePrintable {
 
     private int cashbackAmount;
 
-    public CashbackOperation(int id, int sum, String currency, String merchant, int cashbackAmount) {
-        super(id, sum, currency, merchant);
+    public CashbackOperation(int id, int sum, String currency, String merchant, int cashbackAmount, int clientId) {
+        super(id, sum, currency, merchant, clientId);
         this.cashbackAmount = cashbackAmount;
     }
 
