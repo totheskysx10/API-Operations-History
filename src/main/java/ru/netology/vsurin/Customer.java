@@ -9,14 +9,8 @@ public class Customer {
         this.name = name;
     }
 
-    @Override
-    public boolean equals(Object o) {
-        return false;
-    }
-
-    @Override
-    public int hashCode() {
-        return 0;
+    public int getId() {
+        return id;
     }
 
     @Override

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f43cef3b-fc56-4782-b123-4e465d6c0f06" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VtnlemgGTctzQlPlnXtHHRYYyQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/Documents/IdeaProjects/API Operations History/build.gradle",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "cc478e83c539d088b3fcb94f7a742c8c"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.netology.vsurin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\IdeaProjects\API Operations History\src\main\java\ru\netology\vsurin" />
+      <recent name="C:\Users\User\Documents\IdeaProjects\API Operations History\src\ru\netology\vsurin" />
+      <recent name="C:\Users\User\Documents\IdeaProjects\API Operations History" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.vsurin.Main" />
+      <module name="API_Operations_History.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.vsurin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="API Operations History" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="API Operations History" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f43cef3b-fc56-4782-b123-4e465d6c0f06" name="Changes" comment="" />
+      <created>1695664397902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695664397902</updated>
+      <workItem from="1695664399923" duration="1138000" />
+      <workItem from="1696423901454" duration="14000" />
+      <workItem from="1696424000933" duration="599000" />
+      <workItem from="1696597526716" duration="14694000" />
+      <workItem from="1696616419210" duration="154000" />
+      <workItem from="1696616611081" duration="590000" />
+      <workItem from="1696854805406" duration="14000" />
+      <workItem from="1697033150931" duration="34000" />
+      <workItem from="1697114757637" duration="7089000" />
+      <workItem from="1697806115011" duration="4356000" />
+      <workItem from="1698347849983" duration="5389000" />
+      <workItem from="1698353323391" duration="735000" />
+      <workItem from="1698410150806" duration="11601000" />
+      <workItem from="1698422127009" duration="164000" />
+      <workItem from="1698426116697" duration="25000" />
+      <workItem from="1698426348151" duration="53000" />
+      <workItem from="1698432280794" duration="627000" />
+      <workItem from="1698595463796" duration="133000" />
+      <workItem from="1699012317854" duration="2826000" />
+      <workItem from="1699289397251" duration="600000" />
+      <workItem from="1699366743606" duration="3000" />
+      <workItem from="1699543285990" duration="16000" />
+      <workItem from="1700119966221" duration="7000" />
+      <workItem from="1700231028669" duration="7418000" />
+      <workItem from="1700409603979" duration="4597000" />
+      <workItem from="1700414830758" duration="723000" />
+      <workItem from="1700415566058" duration="430000" />
+      <workItem from="1700416008826" duration="717000" />
+      <workItem from="1700416737521" duration="3118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

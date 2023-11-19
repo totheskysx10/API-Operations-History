@@ -4,8 +4,8 @@ public class LoanOperation extends Operation implements ConsolePrintable {
 
     private int loanId;
 
-    public LoanOperation(int id, int sum, String currency, String merchant, int loanId) {
-        super(id, sum, currency, merchant);
+    public LoanOperation(int id, int sum, String currency, String merchant, int loanId, int clientId) {
+        super(id, sum, currency, merchant, clientId);
         this.loanId = loanId;
     }
 
