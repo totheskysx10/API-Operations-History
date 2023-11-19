@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f43cef3b-fc56-4782-b123-4e465d6c0f06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/AppConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API Operations History.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API Operations History/ru/netology/vsurin/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API Operations History/ru/netology/vsurin/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API Operations History/ru/netology/vsurin/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API Operations History/ru/netology/vsurin/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API Operations History/ru/netology/vsurin/Operation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/netology/vsurin/CashbackOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/netology/vsurin/ConsolePrintable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/netology/vsurin/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/netology/vsurin/CustomerOperationOutOfBoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/netology/vsurin/LoanOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/netology/vsurin/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/netology/vsurin/Operation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/netology/vsurin/OperationException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/netology/vsurin/OperationRuntimeException.java" beforeDir="false" />
-    </list>
+    <list default="true" id="f43cef3b-fc56-4782-b123-4e465d6c0f06" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +142,7 @@
       <workItem from="1700414830758" duration="723000" />
       <workItem from="1700415566058" duration="430000" />
       <workItem from="1700416008826" duration="717000" />
-      <workItem from="1700416737521" duration="2801000" />
+      <workItem from="1700416737521" duration="3118000" />
     </task>
     <servers />
   </component>
