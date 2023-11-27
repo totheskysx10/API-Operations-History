@@ -1,6 +1,6 @@
-package ru.netology.vsurin;
+package ru.netology.vsurin.domain;
 
-public class LoanOperation extends Operation implements ConsolePrintable {
+public class LoanOperation extends Operation {
 
     private int loanId;
 
@@ -9,10 +9,6 @@ public class LoanOperation extends Operation implements ConsolePrintable {
         this.loanId = loanId;
     }
 
-    @Override
-    public void printToConsole() {
-        System.out.println("{id=" + getId() + ", sum=" + getSum() + ", currency=" + getCurrency() + ", merchant=" + getMerchant() + ", loan id=" + loanId + "}");
-    }
 
     @Override
     public String toString()

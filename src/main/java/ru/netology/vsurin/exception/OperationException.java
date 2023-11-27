@@ -1,4 +1,4 @@
-package ru.netology.vsurin;
+package ru.netology.vsurin.exception;
 
 public abstract class OperationException extends Exception {
 
