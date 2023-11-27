@@ -1,6 +1,6 @@
-package ru.netology.vsurin;
+package ru.netology.vsurin.domain;
 
-public class CashbackOperation extends Operation implements ConsolePrintable {
+public class CashbackOperation extends Operation {
 
     private int cashbackAmount;
 
@@ -9,10 +9,6 @@ public class CashbackOperation extends Operation implements ConsolePrintable {
         this.cashbackAmount = cashbackAmount;
     }
 
-    @Override
-    public void printToConsole() {
-        System.out.println("{id=" + getId() + ", sum=" + getSum() + ", currency=" + getCurrency() + ", merchant=" + getMerchant() + ", cashback=" + cashbackAmount + "}");
-    }
 
     @Override
     public String toString()

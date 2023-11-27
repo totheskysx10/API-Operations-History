@@ -1,4 +1,4 @@
-package ru.netology.vsurin;
+package ru.netology.vsurin.exception;
 
 public class CustomerOperationOutOfBoundException extends OperationException {
     public static final String MESSAGE = "Exception while trying to save operation %s for customer %s";
