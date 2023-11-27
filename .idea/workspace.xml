@@ -5,42 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f43cef3b-fc56-4782-b123-4e465d6c0f06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/OperationHistoryApiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/configuration/OperationProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/controller/OperationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/controller/dto/CustomerDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/controller/dto/CustomersGetResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/controller/dto/OperationDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/controller/dto/OperationsGetResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/vsurin/AsyncInputOperationServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/vsurin/CustomerControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/vsurin/CustomerServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/vsurin/OperationControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/vsurin/OperationHistoryApiApplicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/vsurin/StatementServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/AppConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/AsyncInputOperationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/service/AsyncInputOperationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/CashbackOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/domain/CashbackOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/ConsolePrintable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/domain/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/CustomerOperationOutOfBoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/exception/CustomerOperationOutOfBoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/service/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/LoanOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/domain/LoanOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/domain/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/OperationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/exception/OperationException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/OperationRuntimeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/exception/OperationRuntimeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/StatementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/service/StatementService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/java/StorageServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/service/AsyncInputOperationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/vsurin/service/AsyncInputOperationService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -340,7 +305,7 @@
       <workItem from="1700902872818" duration="1119000" />
       <workItem from="1700904080502" duration="25000" />
       <workItem from="1701015294374" duration="17671000" />
-      <workItem from="1701077000571" duration="10049000" />
+      <workItem from="1701077000571" duration="10927000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,6 @@ package ru.netology.vsurin.service;
 
 import org.springframework.stereotype.Component;
 import ru.netology.vsurin.configuration.OperationProperties;
-import ru.netology.vsurin.controller.dto.OperationDTO;
 import ru.netology.vsurin.domain.Operation;
 
 import javax.annotation.PostConstruct;
