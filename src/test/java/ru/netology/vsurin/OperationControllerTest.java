@@ -24,15 +24,20 @@ public class OperationControllerTest extends OperationHistoryApiApplicationTest 
 
     @Test
     public void getCustomerOperationsTest() throws InterruptedException {
+        statementService.deleteOperationById(1);
+        statementService.deleteOperationById(2);
         OperationDTO operationDTO1 = new OperationDTO(1, 123, "rub", "merch", 1);
+        OperationDTO operationDTO3 = new OperationDTO(1, 123, "rub", "merch", 1);
         OperationDTO operationDTO2 = new OperationDTO(2, 1231, "rub", "merch1", 1);
         operationController.addOperation(operationDTO1);
         operationController.addOperation(operationDTO2);
+        operationController.addOperation(operationDTO3);
 
         List<OperationDTO> l1 = new ArrayList<>();
         l1.add(operationDTO1);
         l1.add(operationDTO2);
-        Thread.sleep(2000);
+        l1.add(operationDTO3);
+        Thread.sleep(3000);
 
         assertEquals(l1, operationController.getCustomerOperations(1));
     }
@@ -63,11 +68,12 @@ public class OperationControllerTest extends OperationHistoryApiApplicationTest 
         l1.add(newOperation1);
         List<Operation> l2 = new ArrayList<>();
         l2.add(newOperation2);
+        l2.add(newOperation2);
         Customer c1 = new Customer(1, "Spring");
         Customer c2 = new Customer(2, "Boot");
         eqMap.put(c1, l1);
         eqMap.put(c2, l2);
-        Thread.sleep(2000);
+        Thread.sleep(3000);
 
         assertEquals(eqMap, statementService.getStatement());
     }
